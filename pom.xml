@@ -17,13 +17,13 @@
 		<dependency>
 			<groupId>org.abstractj.kalium</groupId>
 			<artifactId>kalium</artifactId>
-			<version>0.5.0</version>
+			<version>0.6.0</version>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
-			<version>1.2.1</version>
+			<version>1.2.3</version>
 		</dependency>
 	</dependencies>
 
